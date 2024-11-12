@@ -17,3 +17,18 @@ Configurar Segurança: Defina regras de acesso e configure senhas ou chaves de a
 Revisar e Criar: Verifique todas as suas configurações e clique em criar. Azure vai provisionar a máquina virtual para você em minutos.
 
 A partir daí, você pode acessar a máquina virtual como se fosse um computador físico, instalar aplicativos, armazenar dados e muito mais.
+
+Desafio - Configurando uma instancia de Banco de dados na Azure
+  Vamos explorar os conceitos de IaaS, PaaS e SaaS no contexto do Microsoft Azure:
+IaaS (Infrastructure as a Service):
+
+O que é: Fornece recursos de infraestrutura, como servidores, armazenamento e redes, em um modelo de pagamento por uso.
+Exemplo no Azure: Máquinas Virtuais. Você aluga a infraestrutura e tem controle total sobre o sistema operacional e as aplicações que deseja executar.
+
+PaaS (Platform as a Service):
+O que é: Fornece uma plataforma que permite aos desenvolvedores criar, testar e gerenciar aplicativos sem se preocupar com a infraestrutura subjacente.
+Exemplo no Azure: Azure App Service. Você pode desenvolver e implantar aplicativos rapidamente, enquanto o Azure cuida do gerenciamento do servidor e da escalabilidade.
+
+SaaS (Software as a Service):
+O que é: Fornece acesso a aplicações prontas para uso, hospedadas na nuvem e acessíveis pela internet. Não há necessidade de instalação ou manutenção de software.
+Exemplo no Azure: Microsoft Office 365. Os usuários acessam aplicativos como Word e Excel diretamente do navegador, sem precisar se preocupar com atualizações ou infraestrutura.
